@@ -1,0 +1,5 @@
+alias gs="git status"
+alias gpush-fl="git push --force-with-lease origin HEAD"
+
+alias git-touch="git commit --amend --reset-author --no-edit"
+alias ggrep="git grep -n"
